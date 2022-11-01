@@ -29,7 +29,3 @@ Docker
 
 * [Hands-On Kubernetes and Docker for Distributed Applications [Video]](https://www.packtpub.com/virtualization-and-cloud/hands-kubernetes-and-docker-distributed-applications-video?utm_source=github&utm_medium=repository&utm_campaign=9781788994033)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788471695">https://packt.link/free-ebook/9781788471695 </a> </p>
